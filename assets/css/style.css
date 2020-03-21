@@ -162,6 +162,14 @@ header a:hover {
     
 }
 
+.clake {
+    height: 211.05px;
+}
+
+.craterlake {
+    height: 241.45px;
+}
+
 /* Contact */
 
 input[name=name], input[name=email] {
